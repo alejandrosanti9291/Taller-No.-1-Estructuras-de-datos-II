@@ -1,6 +1,6 @@
 /*
 *Nombre: Trabajo 1 ED ll
-*Autor: Richard Ramirez Patiño, Sebastian Urbano, Alejandro Santibañez.
+*Autor: Richard Ramirez PatiÃ±o, Sebastian Urbano, Alejandro SantibaÃ±ez.
 *Fecha: 10/08/2017
 *Resumen: Bloque de ejercicios: while, for, switch, matrices, arreglos y estructuras.
 */
@@ -163,6 +163,7 @@ void MenuWhile(){
 }
 //Funciones de sumas
 int suma1_100(int i){
+	i = 0;
 	int max = 100;
 	int suma = 0;
 
@@ -175,6 +176,7 @@ int suma1_100(int i){
 }
 
 int suma_pares(int i){
+	i = 0;
 	int max = 50;
 	int suma = 0;
 
@@ -188,6 +190,7 @@ int suma_pares(int i){
 }
 
 int suma_impares(int i){
+	i = 0;
 	int max = 50;
 	int suma = 0;
 
